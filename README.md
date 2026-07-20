@@ -111,10 +111,10 @@ This project was built to demonstrate a complete, industry-relevant analytics wo
 
 ---
 
-## 📬 Contact
+# Contact
 
 **Aastha Kolhe**
-[[LinkedIn](https://www.linkedin.com/in/aastha-kolhe)](#) | [[email][aasthakolhe04@gmail.com](#)
+[LinkedIn](https://www.linkedin.com/in/aastha-kolhe) | [Email](mailto:aasthakolhe04@gmail.com)
 
 ---
 
