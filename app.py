@@ -324,4 +324,4 @@ with st.expander("📄 View Filtered Data"):
     st.dataframe(filtered_df, use_container_width=True)
 
 st.markdown("---")
-st.caption("Built with Streamlit · Data cleaned and analyzed using Python, SQL & Power BI · by Aastha Kolhe")yzed using Python, SQL & Power BI")
+st.caption("Built with Streamlit · Data cleaned and analyzed using Python, SQL & Power BI · by Aastha Kolhe")
